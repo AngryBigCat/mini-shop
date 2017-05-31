@@ -7,5 +7,6 @@
  */
 
 return [
-    'image_prefix' => 'http://wx.cn/images'
+    'image_prefix' => 'http://wx.cn/images',
+    'to_expire_in' => 7200
 ];
